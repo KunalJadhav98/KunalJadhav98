@@ -1,5 +1,6 @@
-🌟 Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
-👋 About Me
+# 🌟 Data Analyst | Power BI | SQL | Excel | Open to New Opportunities
+
+## 👋 About Me
 
 I'm Kunal Jadhav, a passionate and detail-oriented Data Analyst with a strong foundation in Power BI, SQL, Excel, and Data Visualization.
 After working in the manufacturing and design engineering domain, I discovered my true interest in using data to drive business insights and improve decision-making.
@@ -8,7 +9,7 @@ I have successfully completed the Data Analyst Professional Program from SkilloV
 
 I’m eager to apply my analytical mindset and problem-solving skills to transform raw data into actionable insights and support data-driven business strategies.
 
-💡 Key Skills
+## 💡 Key Skills
 
 Data Visualization: Power BI, Excel
 
@@ -20,7 +21,7 @@ Business Intelligence & Storytelling
 
 Tools: Power BI Service, DAX, MS Excel, SQL Server, Python 
 
-📊 Projects
+## 📊 Projects
 
 ShopNest Store Performance Dashboard (Power BI): Analyzed sales performance, profit trends, and customer data to optimize business decisions.
 
@@ -28,11 +29,11 @@ Airline Database Analysis (SQL): Extracted and analyzed passenger and route data
 
 Freshco Hypermarket Analysis (Excel): Automated sales reporting and identified revenue trends for retail performance improvement.
 
-🎓 Certifications
+## 🎓 Certifications
 
 Data Analyst Professional Certification – SkilloVilla
 
-📫 Let’s Connect!
+### 📫 Let’s Connect if you're looking for a Data Analyst withna proven record of transforming data into insights.
 
 📧 Email: kunal0jadhav@gmail.com
 
